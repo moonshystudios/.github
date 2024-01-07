@@ -1,1 +1,10 @@
-# Moonshy Studios
+![Hacker Moonshy Studios Logo Banner](https://media.discordapp.net/attachments/963405954618105957/1174319852274585650/8k_MSS_Wallpaper.png)
+
+Moonshy Studios is currently working on a Social Network
+that is probably gonna take down all popular networks like TikTok and Discord.
+We are putting hard work into our Social Network to be as secure as possible and easy to use.
+Also we are trying to get as much things into the network, so you don't need millions of apps.
+
+## Get in touch!
+
+Join our Discord, maybe you can get early access [Moonshy Studios Discord](https://discord.moonshystudios.com).
