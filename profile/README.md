@@ -1,12 +1,16 @@
 ![Hacker Moonshy Studios Logo Banner](https://github.com/moonshystudios/.github/blob/main/profile/8k%20MSS%20Wallpaper%20-%20Signed.png?raw=true)
 
-Moonshy Studios is currently working on a Social Network that is probably gonna take down all popular networks like TikTok and Discord.
-Unfortunately we will be releasing in 2027, but you still could be able to get early access,
-because in 2025 we will launch pre-production version for a small circle of people around the world that are on our [Discord](https://discord.moonshystudios.com).
+At Moonshy Studios, we're dedicated to creating a revolutionary Social Network expected to release in 2027.
+However, we're excited to offer a pre-production version in 2025 exclusively on our [Discord](https://discord.moonshystudios.com) for a select group of users.
 
-## What we aim for?
-We are putting hard work into our Social Network to be as secure as possible and easy to use.
-Also we are trying to get as much things into the network, so you don't need millions of apps.
+## Our Vision?
+We're putting a hard work to create a user-friendly and highly secure Social Network.
+Our aim is to consolidate various functionalities, reducing the need for multiple apps.
+
+## Early Access:
+In 2025, we'll roll out a pre-production version on our Discord, granting random access to users worldwide. Keep an eye on our Discord server for this unique opportunity!
 
 ## Get in touch!
-ℹ️ Join our Discord, maybe you can get early access [Moonshy Studios Discord](https://discord.moonshystudios.com).
+🌐 Join our Discord, and have a chance to get early access [Moonshy Studios Discord](https://discord.moonshystudios.com).
+
+Stay tuned for updates as we gear up to expand our team, possibly including opportunities for developers and more exciting announcements!
