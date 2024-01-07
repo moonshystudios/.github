@@ -1,4 +1,4 @@
-![Hacker Moonshy Studios Logo Banner](https://github.com/moonshystudios/.github/blob/main/profile/8k%20MSS%20Wallpaper.png?raw=true)
+![Hacker Moonshy Studios Logo Banner](https://github.com/moonshystudios/.github/blob/main/profile/8k%20MSS%20Wallpaper%20-%20Signed.png?raw=true)
 Moonshy Studios is currently working on a Social Network
 that is probably gonna take down
 all popular networks like TikTok and Discord.
