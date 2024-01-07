@@ -2,7 +2,7 @@
 
 Moonshy Studios is currently working on a Social Network that is probably gonna take down all popular networks like TikTok and Discord.
 Unfortunately we will be releasing in 2027, but you still could be able to get early access,
-because next year we will launch pre-production version for a small circle of people around the world that are on our [Discord](https://discord.moonshystudios.com).
+because in 2025 we will launch pre-production version for a small circle of people around the world that are on our [Discord](https://discord.moonshystudios.com).
 
 ## What we aim for?
 We are putting hard work into our Social Network to be as secure as possible and easy to use.
